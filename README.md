@@ -11,7 +11,7 @@
 -> I’m currently learning ...
 * c++
 * javascript
-* PLsql
+* Mysql
 
 -> How to reach me ...
 * 📫 email : ritikasoni1421@gmail.com
