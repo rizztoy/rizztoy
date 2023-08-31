@@ -7,6 +7,11 @@
 
 -> Completely learnt ...
 *  'c' programming language.
+*  Basics of mysql.
+*  MSoffice.
+*  HTML
+*  CSS
+
 
 -> I’m currently learning ...
 * c++
