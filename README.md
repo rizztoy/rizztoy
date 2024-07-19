@@ -1,11 +1,12 @@
 -> Hi, I’m RITIKA SONI
-* 📖 I'm a student of BSC.CS in GUJARAT UNIVERSITY.
+* I'm a student of Computer Science from GUJARAT UNIVERSITY.
 
 -> I'm interested in ...
-* 🖥️ Coding
+* Coding
+* Editing
   
 -> Completely learnt ...
-*  dsa in 'c' programming language.
+*  advanced 'c' programming language.
 *  dsa in 'cpp' programming language
 *  mysql.
 *  MSoffice.
@@ -13,13 +14,14 @@
 *  CSS
 *  basics of python
 
-
 -> I’m currently learning ...
 * javascript
 * java
 * web-dev
 * php
-* artificial intelligence with python
+* machine learning with python
+* networking with python
+* PL/sql
 
 -> How to reach me ...
 * email : ritikasoni1421@gmail.com
